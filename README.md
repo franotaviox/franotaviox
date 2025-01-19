@@ -8,8 +8,8 @@ I'm an **Software Developer** currently pursuing a degree in **System Analysis a
 - 🌱 **Currently Learning:** Python, React JS, AWS, and Cybersecurity.
 - 💼 **Looking for:** Internship opportunities to apply and expand my knowledge.
 - 🌟 **Key Skills:**
-  - **HTML, CSS**
-  - **Languages:** Python, JavaScript, SQL Server.
+  - **HTML, CSS, SQL Server*
+  - **Languages:** Python, JavaScript
   - **Frameworks:** React JS, React Native.
   - **Tools:** Linux (Debian), AWS, Excel, PowerPoint, Word.
   - **Certifications:**
