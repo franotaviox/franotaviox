@@ -5,6 +5,6 @@
 
 ---
 
-## 📞 Let's Connect!
+## 📞
 - **Email:** [otaviofjuliano@gmail.com](mailto:otaviofjuliano@gmail.com)
 - **LinkedIn:** [Otávio Francisco](https://www.linkedin.com/in/ot%C3%A1vio-francisco/)
