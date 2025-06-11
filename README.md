@@ -1,4 +1,4 @@
-# 👨‍💻 Otávio Francisco Silva Juliano
+# 👨‍💻 Otávio Francisco
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Foco em Backend e Desenvolvimento Web**
 
